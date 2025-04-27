@@ -39,3 +39,4 @@ links:
 
   ######## rt265 #########
   - https://api.github.com/users/rt265
+  - https://api.github.com/repos/rt265/Blog-Personal-Timeline/issues?per_page=3
